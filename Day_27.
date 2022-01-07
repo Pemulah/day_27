@@ -1,0 +1,4 @@
+buku = {'judul': 'Kisah Hidup Yang Membuat Semangat', 'penulis': 'Penyebarkebaikan016'}
+
+for key in buku:
+  print(key, '->', buku[key])
